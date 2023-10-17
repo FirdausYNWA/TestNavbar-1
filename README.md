@@ -4,4 +4,4 @@ Projek Navbar page
 
 ### Images NAVBAR:
 
-![HOME](https://github.com/FirdausYNWA/Projek-A/blob/main/HOME.png)
+![HOME](https://github.com/FirdausYNWA/TestNavbar-1/blob/main/HOME.PNG)
